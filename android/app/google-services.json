@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327446755344",
+    "project_id": "simple-interactivecares",
+    "storage_bucket": "simple-interactivecares.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327446755344:android:259c5dc74d2f3f0d97f295",
+        "android_client_info": {
+          "package_name": "com.example.simple_flutter_application_interactive_cares"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6gTnbCgh4hjksfGlLIbbocZt4x-aWaBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
