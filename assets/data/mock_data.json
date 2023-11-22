@@ -1,0 +1,54 @@
+[
+    {
+        "title": "Flutter Course",
+        "videosUrl": [
+        "L9cP9OTUstA",
+        "zrn7V3bMJvg",
+        "Nj1KVL86X7g"
+        ],
+        "modules": [
+        "Module 1",
+        "Module 2",
+        "Module 3"
+        ],
+        "bookmarks": [
+        {
+            "title": "Marcador 1",
+            "videoUrl": "https://www.example.com/video1",
+            "segunds": 98
+        },
+        {
+            "title": "Marcador 2",
+            "videoUrl":"https://www.example.com/video1",
+            "segunds": 8
+        }
+        ],
+        "percentageCompleted": 0.5
+    },
+    {
+        "title": "Firebase Course",
+        "videosUrl": [
+        "https://www.example.com/video1",
+        "https://www.example.com/video2",
+        "https://www.example.com/video3"
+        ],
+        "modules": [
+        "Módulo 1",
+        "Módulo 2",
+        "Módulo 3"
+        ],
+        "bookmarks": [
+        {
+            "title": "Marcador 1",
+            "videoUrl": "https://www.example.com/video1",
+            "segunds": 98
+        },
+        {
+            "title": "Marcador 2",
+            "videoUrl":"https://www.example.com/video1",
+            "segunds": 8
+        }
+        ],
+        "percentageCompleted": 0.75
+    }
+]
