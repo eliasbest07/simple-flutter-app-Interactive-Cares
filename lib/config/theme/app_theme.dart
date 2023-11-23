@@ -12,7 +12,17 @@ class AppTheme {
 
     textTheme: TextTheme(
       titleLarge: GoogleFonts.montserratAlternates(), 
-      titleMedium: GoogleFonts.comfortaa(), 
+      titleMedium: GoogleFonts.montserratAlternates(), 
+      bodySmall:  GoogleFonts.comfortaa(),
+      bodyMedium: GoogleFonts.comfortaa(),
+      bodyLarge: GoogleFonts.comfortaa(),
+      labelLarge: GoogleFonts.comfortaa(),
+      // displayLarge: GoogleFonts.comfortaa(),
+      // displayMedium:  GoogleFonts.comfortaa(),
+      // displaySmall:  GoogleFonts.comfortaa(),
+      labelMedium:  GoogleFonts.comfortaa(),
+      labelSmall:  GoogleFonts.comfortaa(),
+      // titleSmall:  GoogleFonts.comfortaa(),
     )
     );
 }

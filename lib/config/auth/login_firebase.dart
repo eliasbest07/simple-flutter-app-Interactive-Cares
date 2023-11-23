@@ -11,7 +11,7 @@ Future<(String, bool)> signInWithEmailPassword(String email, String password) as
     return ('Successful login',true);
   } on FirebaseAuthException catch (e) {
     if (e.code == 'user-not-found') {
-     return ('User not registered yet',false);
+      return ('User not registered yet',false);
     } else if (e.code == 'wrong-password') {
       return ('Email or Password invalidated',false);
     }

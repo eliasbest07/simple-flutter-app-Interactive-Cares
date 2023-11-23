@@ -1,11 +1,12 @@
 import 'package:go_router/go_router.dart';
-import 'package:simple_flutter_application_interactive_cares/domain/entities/course_entity.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 
+import '/domain/entities/course_entity.dart';
 import '/presentation/screens/screens.dart';
 
 final appRouter = GoRouter(
     routes: [
-      GoRoute(path: '/', builder: (context, state) => const HomeScree()),
+      GoRoute(path: '/', builder: (context, state) => FirebaseAuth.instance.currentUser == null ? const HomeScreen() : const DashboardScreen() ),
       
       GoRoute(
           path: '/dashboard',

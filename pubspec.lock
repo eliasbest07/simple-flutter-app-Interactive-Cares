@@ -25,6 +25,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "5.13.0"
+  animate_do:
+    dependency: "direct main"
+    description:
+      name: animate_do
+      sha256: "4554744e604b841e2bde710398ef3f4f8a1935a182b48727afe2a1023527b883"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.1.0"
   args:
     dependency: transitive
     description:
@@ -166,6 +174,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_hooks:
+    dependency: "direct main"
+    description:
+      name: flutter_hooks
+      sha256: "7c8db779c2d1010aa7f9ea3fbefe8f86524fcb87b69e8b0af31e1a4b55422dec"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.20.3"
   flutter_inappwebview:
     dependency: transitive
     description:
@@ -272,6 +288,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.12.1"
+  hooks_riverpod:
+    dependency: "direct main"
+    description:
+      name: hooks_riverpod
+      sha256: b271e06606e718cf8185db9a792d1af00e2049e7bf5da09583654e020c00fbaa
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.4.8"
   http:
     dependency: transitive
     description:

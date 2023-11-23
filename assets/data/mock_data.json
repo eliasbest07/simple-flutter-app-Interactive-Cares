@@ -14,12 +14,12 @@
         "bookmarks": [
         {
             "title": "Marcador 1",
-            "videoUrl": "https://www.example.com/video1",
+            "videoUrl": "Nj1KVL86X7g",
             "segunds": 98
         },
         {
             "title": "Marcador 2",
-            "videoUrl":"https://www.example.com/video1",
+            "videoUrl":"zrn7V3bMJvg",
             "segunds": 8
         }
         ],
@@ -28,9 +28,9 @@
     {
         "title": "Firebase Course",
         "videosUrl": [
-        "https://www.example.com/video1",
-        "https://www.example.com/video2",
-        "https://www.example.com/video3"
+        "udHm7I_OvJs",
+        "29BNaJiqWB4",
+        "Vik66tAVOBg"
         ],
         "modules": [
         "Módulo 1",
@@ -40,12 +40,12 @@
         "bookmarks": [
         {
             "title": "Marcador 1",
-            "videoUrl": "https://www.example.com/video1",
+            "videoUrl": "udHm7I_OvJs",
             "segunds": 98
         },
         {
             "title": "Marcador 2",
-            "videoUrl":"https://www.example.com/video1",
+            "videoUrl":"Vik66tAVOBg",
             "segunds": 8
         }
         ],
